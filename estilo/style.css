@@ -14,3 +14,24 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0,0,0, 05);
 }
+h1{
+    font-size: 2em;
+    color: rgb(178, 111, 240);
+}
+h2{
+    font-size: 1.5em;
+    color: rgb(178, 111, 240);
+}
+img.lado{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    font-size: bold;
+    color: blueviolet;
+}
+a:hover {
+    text-decoration: underline;
+    color: rgb(28, 4, 92);
+}
